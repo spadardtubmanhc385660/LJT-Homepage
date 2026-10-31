@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), part of the Department of Computer Science and Engineering at the **Hong Kong University of Science and Technology (HKUST)**, supervised by **Professor Junxian He** (who leads the HKUST NLP Group). I completed my undergraduate studies at **Shanghai Jiao Tong University (SJTU)**, graduating in June 2024 with a **B.Eng.** degree, where I was also previously advised by **Professor Junxian He**.
+I am a first-year Ph.D. candidate at the **HKUST NLP Group**, part of the **Hong Kong University of Science and Technology (HKUST)**, supervised by **Professor Junxian He** (who leads the HKUST NLP Group). I completed my undergraduate studies at **Shanghai Jiao Tong University (SJTU)**, graduating in June 2024 with a **B.Eng.** degree, where I was also previously advised by **Professor Junxian He**.
 
 ## Research Interests
 
-My research focuses on **Natural Language Processing (NLP)** and **Machine Learning (ML)**. Specifically, my research interests and technical skills include:
+My research focuses on **natural language processing (NLP)** and **machine learning (ML)**. My specific research interests include:
 
 * **LLM Reasoning and Reinforcement Learning**
 * **Hallucination in Vision-Language Models (VLM)**
@@ -24,7 +24,9 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
   First-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He.
 * **Shanghai Jiao Tong University (SJTU)** (2020 - 2024)  
   *B.Eng.*  
-  Graduated in June 2024. Previously advised by Professor Junxian He during undergraduate studies. Received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
+  Graduated in June 2024. Previously advised by Professor Junxian He during undergraduate studies.
+* **Honors & Awards**
+  * Received **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
 
 ## Research Experience
 
@@ -39,8 +41,8 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 
 ## Skills
 
-* **Natural Language Processing (NLP)**
-* **Machine Learning (ML)**
+* **Natural Language Processing**
+* **Machine Learning**
 * **LLM Reasoning and Reinforcement Learning**
 * **Hallucination in Vision-Language Models (VLM)**
 * **LLM Truthfulness and Interpretability**
@@ -50,7 +52,7 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
    * **Authors**: **Junteng Liu** (First author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
    * **Venue**: Published on Arxiv (2025)
-   * **Code**: Has GitHub code repository ([SynLogic](https://github.com/Vicent0205))
+   * **Code**: Has GitHub code repository
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    * **Authors**: **Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
    * **Venue**: Published on Arxiv (2025)
